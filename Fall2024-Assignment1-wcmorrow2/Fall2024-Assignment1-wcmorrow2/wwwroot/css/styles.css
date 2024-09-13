@@ -18,10 +18,29 @@ h1 {
     margin-bottom: 20px;
     text-align: left;
 }
-
+h5{
+    text-align: left;
+}
 .rounded-image {
     border-radius: 15px;
     max-width: 100%;
     height: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+.container2 {
+    display: flex;
+    align-items: center;
+}
+    .container2 h1 {
+        text-align: left;
+        flex-grow:2
+    }
+    .container2 h5 {
+        margin-right: 10px; /* Adjust the spacing as needed */
+        font-size: 1.5em; /* Example font size */
+    }
+
+    .container2 img {
+        width: 1.5em; /* Match the font size of the heading */
+        height: auto; /* Maintain aspect ratio */
+    }

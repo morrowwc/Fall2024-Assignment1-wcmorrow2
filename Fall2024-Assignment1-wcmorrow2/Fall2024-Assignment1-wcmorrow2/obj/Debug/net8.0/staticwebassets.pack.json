@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\Fall2024-Assignment1-wcmorrow2.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\attributes\\star.png",
+      "PackagePath": "staticwebassets\\attributes\\star.png"
+    },
+    {
       "Id": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\favicon.ico",

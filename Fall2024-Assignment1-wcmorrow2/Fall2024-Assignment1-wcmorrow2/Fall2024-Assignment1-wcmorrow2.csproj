@@ -7,4 +7,8 @@
     <RootNamespace>Fall2024_Assignment1_wcmorrow2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\attributes\" />
+  </ItemGroup>
+
 </Project>

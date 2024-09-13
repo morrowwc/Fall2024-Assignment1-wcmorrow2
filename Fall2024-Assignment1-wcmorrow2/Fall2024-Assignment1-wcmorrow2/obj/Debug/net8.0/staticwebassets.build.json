@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/QQcWj/LhysCSmKHZAr5jFLPWgjDlKm/1NtfaOl9EjM=",
+  "Hash": "yFjB2ik3qGaTnkR6j33Gc+r6pLVs8aWKmMnOxf2PFGE=",
   "Source": "Fall2024-Assignment1-wcmorrow2",
   "BasePath": "_content/Fall2024-Assignment1-wcmorrow2",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fall2024-Assignment1-wcmorrow2.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\attributes\\star.png",
+      "SourceId": "Fall2024-Assignment1-wcmorrow2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\",
+      "BasePath": "_content/Fall2024-Assignment1-wcmorrow2",
+      "RelativePath": "attributes/star.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attributes\\star.png"
+    },
+    {
       "Identity": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\site.css",
       "SourceId": "Fall2024-Assignment1-wcmorrow2",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+      "SourceId": "Fall2024-Assignment1-wcmorrow2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\",
+      "BasePath": "_content/Fall2024-Assignment1-wcmorrow2",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\favicon.ico",
