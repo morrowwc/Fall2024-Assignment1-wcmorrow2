@@ -24,4 +24,4 @@ TestResults.xml
 #
 *.cache
 *.vsidx
-*.props
+./Debug
