@@ -22,7 +22,6 @@ rad.json
 TestResults.xml
 
 # Exclude specific folders
-Controllers/
-Models/
-Views/
-Dependencies/
+*.vsidx
+.bin/
+.obj/
