@@ -23,5 +23,6 @@ TestResults.xml
 
 # Exclude specific folders
 *.vsidx
-.bin/
-.obj/
+*bin/
+*obj/
+.vs/
