@@ -2,6 +2,7 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
+.vs/
 #Cache folder
 .alcache/
 #Symbols folder
@@ -22,7 +23,6 @@ rad.json
 TestResults.xml
 
 # Exclude specific folders
-Controllers/
-Models/
-Views/
-Dependencies/
+*.vsidx
+*bin/
+*obj/
