@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|c:\\users\\will\\documents\\progamming\\cs330\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|solutionrelative:fall2024-assignment1-wcmorrow2\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|c:\\users\\will\\documents\\progamming\\cs330\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|solutionrelative:fall2024-assignment1-wcmorrow2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|c:\\users\\will\\documents\\progamming\\cs330\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\fall2024-assignment1-wcmorrow2\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F564294C-4835-4BC2-8E90-D71E58953E4D}|Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2.csproj|solutionrelative:fall2024-assignment1-wcmorrow2\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
-              "RelativeDocumentMoniker": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
-              "ToolTip": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
-              "RelativeToolTip": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-16T22:52:01.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\index.html",
               "RelativeToolTip": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-16T21:46:28.3Z",
+              "WhenOpened": "2024-09-21T21:03:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Will\\Documents\\Progamming\\CS330\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Fall2024-Assignment1-wcmorrow2\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T22:52:01.484Z",
               "EditorCaption": ""
             }
           ]
