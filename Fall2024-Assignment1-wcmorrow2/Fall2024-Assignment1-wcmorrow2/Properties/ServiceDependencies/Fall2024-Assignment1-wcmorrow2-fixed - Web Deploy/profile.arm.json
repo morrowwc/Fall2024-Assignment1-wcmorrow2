@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "Fall2024-Assignment1-wcmorrow2",
+      "defaultValue": "Fall2024-Assignment1-wcmorrow2-fixed",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
